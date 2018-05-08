@@ -1,4 +1,42 @@
-#main-background {
+.top-header {
 	background-color: #E8C84F;
-	text-align: center;
+}
+
+
+
+
+
+.jumbotron {
+	background-image: url("../images/main-bg.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: #E8C84F;
+	height: 430px;
+}
+
+
+.jumbotron-content {
+	margin-top: 3.5em;
+
+}
+
+
+.jumbo-title {
+  color: #b91d44;
+  font-family: Nunito;
+  font-size: 60px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.jumbo-title-two {
+  color: #3c3c3c;
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.82;
+  letter-spacing: -0.7px;
 }
