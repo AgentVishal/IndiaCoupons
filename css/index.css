@@ -1,9 +1,18 @@
 .top-header {
 	background-color: #E8C84F;
+	font-family: Nunito;
+    font-size: 16px;
+    font-weight: bold;
+    color: #353535;
 }
 
+.top-header a {
+	color: #353535;
+}
 
-
+.top-header a.active {
+	color: #947101;
+}
 
 
 .jumbotron {
@@ -28,6 +37,7 @@
   font-weight: bold;
   font-style: normal;
   font-stretch: normal;
+  line-height: 1.0em;
 }
 
 .jumbo-title-two {
@@ -37,6 +47,6 @@
   font-weight: bold;
   font-style: normal;
   font-stretch: normal;
-  line-height: 0.82;
+  line-height: 1.62em;
   letter-spacing: -0.7px;
 }
