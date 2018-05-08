@@ -1,6 +1,6 @@
 .top-header {
-	background-color: #E8C84F;
-	font-family: Nunito;
+	  background-color: #E8C84F;
+	  font-family: Nunito;
     font-size: 16px;
     font-weight: bold;
     color: #353535;
@@ -21,6 +21,7 @@
 	background-repeat: no-repeat;
 	background-color: #E8C84F;
 	height: 430px;
+  margin-bottom: 0em;
 }
 
 
@@ -61,3 +62,47 @@ input[type="text"] {
 	border-radius: 100px;
 }
 
+
+
+
+.second-block {
+  background-color: #129666;
+  text-align: center;
+  font-family: Nunito;
+  padding: 20px;
+}
+
+.category-icons-one {
+  
+}
+
+.category-icons-two {
+  margin: 10px;
+  color: #fff;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+
+
+}
+
+
+.block-title {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 39px;
+  font-size: 36px;
+  letter-spacing: -0.03em;
+}
+
+.block-subtitle {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 29px;
+  font-size: 24px;
+  letter-spacing: -0.03em;
+}
