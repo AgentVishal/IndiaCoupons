@@ -207,7 +207,7 @@ button[type="button2"] {
 .main-footer {
   background-color: #2F2F2F;
   padding-top: 2em;
-  padding-bottom: 2em;
+  padding-bottom: 0.5em;
 }
 
 .footer-title {
@@ -216,6 +216,7 @@ button[type="button2"] {
   font-size: 20px;
   letter-spacing: -0.03em;
   color: #8F8F8F;
+  margin: 20px 0px 0px 0px;
 }
 
 
