@@ -20,7 +20,7 @@
 	background-position: center;
 	background-repeat: no-repeat;
 	background-color: #E8C84F;
-	height: 430px;
+	height: 500px;
   margin-bottom: 0em;
 }
 
@@ -96,6 +96,7 @@ input[type="text"] {
   line-height: 39px;
   font-size: 36px;
   letter-spacing: -0.03em;
+  margin-bottom: 0px;
 }
 
 .block-subtitle {
@@ -110,3 +111,55 @@ input[type="text"] {
 
 
 
+.third-block {
+  background-image: url("../images/pattern1.png");
+}
+
+
+.third-block-inner {
+  padding-top: 25px;
+}
+
+.taj-mahal-third {
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
+
+
+.firstcards {
+  padding-bottom: 2em;
+}
+
+
+.card {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.card-outer {
+  padding: 10px;
+}
+
+.card-view {
+  background-color: #EB5757;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 22px;
+  font-size: 18px;
+  letter-spacing: -0.03em;
+
+color: #FFFFFF;
+
+}
+
+
+.card-icon {
+  position: absolute;
+  margin: -55px 0px 0px 73px;
+}
+
+.card-title-text {
+  padding-top: 13px;
+}
