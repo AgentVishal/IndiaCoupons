@@ -163,3 +163,42 @@ color: #FFFFFF;
 .card-title-text {
   padding-top: 13px;
 }
+
+
+
+
+.forth-block {
+  padding-top: 1.5em;
+  padding-bottom: 2.5em;
+  background-image: url("../images/pattern2.png");
+}
+
+
+.second-card-info {
+  position: absolute;
+  color: #fff;
+  font-family: Nunito;
+  font-size: 16px;
+  letter-spacing: -0.03em;
+  margin: -159px 0 0 18px;
+}
+
+#second-card-text {
+  margin-bottom: 2px;
+}
+
+
+button[type="button2"] {
+  border-radius: 100px;
+  width: 150px;
+  margin: 38px 0 0 0;
+}
+
+
+.forth-block-text {
+  padding: 1em 0em 2em 0em;
+}
+
+.ads728 {
+  margin-top: 2.5em;
+}
