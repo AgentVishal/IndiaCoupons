@@ -202,3 +202,30 @@ button[type="button2"] {
 .ads728 {
   margin-top: 2.5em;
 }
+
+
+.main-footer {
+  background-color: #2F2F2F;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.footer-title {
+  font-family: Nunito;
+  font-style: normal;
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  color: #8F8F8F;
+}
+
+
+.footer-links li {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 32px;
+  font-size: 14px;
+  letter-spacing: -0.03em;
+  color: #E7E7E7;
+  list-style-type: none;
+}
