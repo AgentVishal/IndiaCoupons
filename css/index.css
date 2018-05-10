@@ -169,6 +169,49 @@ color: #FFFFFF;
 
 }
 
+.card-view2 {
+  background-color: #F2994A;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 22px;
+  font-size: 18px;
+  letter-spacing: -0.03em;
+
+color: #FFFFFF;
+
+}
+
+.card-view3 {
+  background-color: #9B51E0;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 22px;
+  font-size: 18px;
+  letter-spacing: -0.03em;
+
+color: #FFFFFF;
+
+}
+
+.card-view4 {
+  background-color: #27AE60;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 22px;
+  font-size: 18px;
+  letter-spacing: -0.03em;
+
+color: #FFFFFF;
+
+}
+
+
 
 .card-icon {
   position: absolute;
